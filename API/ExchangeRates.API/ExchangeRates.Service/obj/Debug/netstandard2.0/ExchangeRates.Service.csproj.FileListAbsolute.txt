@@ -1,0 +1,9 @@
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.Service\bin\Debug\netstandard2.0\ExchangeRates.Service.deps.json
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.Service\bin\Debug\netstandard2.0\ExchangeRates.Service.dll
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.Service\bin\Debug\netstandard2.0\ExchangeRates.Service.pdb
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netstandard2.0\ExchangeRates.Service.csprojAssemblyReference.cache
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netstandard2.0\ExchangeRates.Service.csproj.CoreCompileInputs.cache
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netstandard2.0\ExchangeRates.Service.AssemblyInfoInputs.cache
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netstandard2.0\ExchangeRates.Service.AssemblyInfo.cs
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netstandard2.0\ExchangeRates.Service.dll
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.Service\obj\Debug\netstandard2.0\ExchangeRates.Service.pdb

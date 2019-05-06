@@ -1,0 +1,11 @@
+<app-date-selection (dateChanged)="onDateChanged($event)"></app-date-selection>
+<ag-grid-angular
+  *ngIf="selectedDate"
+  style="width: 720px; height: 400px;"
+  class="ag-theme-balham"
+  [rowData]="exchangeRateChanges"
+  [columnDefs]="columns"
+  [icons]="icons"
+  (gridReady)="onGridReady($event)"
+>
+</ag-grid-angular>

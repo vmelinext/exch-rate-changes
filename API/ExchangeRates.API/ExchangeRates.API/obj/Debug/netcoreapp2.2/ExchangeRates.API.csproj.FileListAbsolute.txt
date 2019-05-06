@@ -1,0 +1,17 @@
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\bin\Debug\netcoreapp2.2\ExchangeRates.API.deps.json
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\bin\Debug\netcoreapp2.2\ExchangeRates.API.runtimeconfig.json
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\bin\Debug\netcoreapp2.2\ExchangeRates.API.runtimeconfig.dev.json
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\bin\Debug\netcoreapp2.2\ExchangeRates.API.dll
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\bin\Debug\netcoreapp2.2\ExchangeRates.API.pdb
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\bin\Debug\netcoreapp2.2\ExchangeRates.Service.dll
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\bin\Debug\netcoreapp2.2\ExchangeRates.Service.pdb
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\obj\Debug\netcoreapp2.2\ExchangeRates.API.csprojAssemblyReference.cache
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\obj\Debug\netcoreapp2.2\ExchangeRates.API.csproj.CoreCompileInputs.cache
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\obj\Debug\netcoreapp2.2\ExchangeRates.API.RazorAssemblyInfo.cache
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\obj\Debug\netcoreapp2.2\ExchangeRates.API.RazorAssemblyInfo.cs
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\obj\Debug\netcoreapp2.2\ExchangeRates.API.AssemblyInfoInputs.cache
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\obj\Debug\netcoreapp2.2\ExchangeRates.API.AssemblyInfo.cs
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\obj\Debug\netcoreapp2.2\ExchangeRates.API.RazorTargetAssemblyInfo.cache
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\obj\Debug\netcoreapp2.2\ExchangeRates.API.csproj.CopyComplete
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\obj\Debug\netcoreapp2.2\ExchangeRates.API.dll
+C:\Users\vytautas.melinauskas\source\repos\ExchangeRates_VM\API\ExchangeRates.API\ExchangeRates.API\obj\Debug\netcoreapp2.2\ExchangeRates.API.pdb

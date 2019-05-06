@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.API.Tests\\ExchangeRates.API.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.API.Tests\\ExchangeRates.API.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.API.Tests\\ExchangeRates.API.Tests.csproj",
+        "projectName": "ExchangeRates.API.Tests",
+        "projectPath": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.API.Tests\\ExchangeRates.API.Tests.csproj",
+        "packagesPath": "C:\\Users\\vytautas.melinauskas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.API.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vytautas.melinauskas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.euromonitor.local/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.API\\ExchangeRates.API.csproj": {
+                "projectPath": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.API\\ExchangeRates.API.csproj"
+              },
+              "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.Service\\ExchangeRates.Service.csproj": {
+                "projectPath": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.Service\\ExchangeRates.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.10.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.API\\ExchangeRates.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.API\\ExchangeRates.API.csproj",
+        "projectName": "ExchangeRates.API",
+        "projectPath": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.API\\ExchangeRates.API.csproj",
+        "packagesPath": "C:\\Users\\vytautas.melinauskas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vytautas.melinauskas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.euromonitor.local/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.Service\\ExchangeRates.Service.csproj": {
+                "projectPath": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.Service\\ExchangeRates.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.Service\\ExchangeRates.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.Service\\ExchangeRates.Service.csproj",
+        "projectName": "ExchangeRates.Service",
+        "projectPath": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.Service\\ExchangeRates.Service.csproj",
+        "packagesPath": "C:\\Users\\vytautas.melinauskas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vytautas.melinauskas\\source\\repos\\ExchangeRates_VM\\API\\ExchangeRates.API\\ExchangeRates.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vytautas.melinauskas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.euromonitor.local/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Xml.XDocument": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
